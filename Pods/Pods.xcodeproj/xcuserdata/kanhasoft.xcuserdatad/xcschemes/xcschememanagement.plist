@@ -6,33 +6,43 @@
 	<dict>
 		<key>GTMSessionFetcher.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>2</integer>
+			<key>isShown</key>
+			<false/>
 		</dict>
 		<key>GoogleToolboxForMac.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>1</integer>
+			<key>isShown</key>
+			<false/>
 		</dict>
-		<key>Pods-FirebaseTutorial.xcscheme</key>
+		<key>Pods-RBFirebaseLogin-Swift.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>3</integer>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Protobuf.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>108542EF0CC4C0A6DDB02A88662C91C1</key>
+		<key>14D35464BA8E6CD4A3FC7F19A7C671A5</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>23BA9083ED0D2392A167A8AFA04427FA</key>
+		<key>6D5CEDECD3D8DC52EA507E0431BDA8A0</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>7D04535608058A2FABC0D16935868FB9</key>
+		<key>7CEB7B518E1AD36F542EA43F36409213</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C052BEBFBD0AB5218CC64BA3450F6547</key>
 		<dict>
 			<key>primary</key>
 			<true/>
